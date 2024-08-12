@@ -1,9 +1,14 @@
 # Online-Socket-game-C
 A simple online game in C made using sockets
+
 ```
 Author:samTime101
 Date:Aug 12,2024 2081/4/28
 ```
+# preview
+[preview.webm](https://github.com/user-attachments/assets/33cb299f-534e-4050-8f82-5ff5dd940e88)
+
+
 # Prerequisites
 - Linux socket API
 - online TCP server (Use NGROK because this code is based on ngrok)
